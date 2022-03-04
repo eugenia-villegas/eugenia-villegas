@@ -12,11 +12,11 @@
 <h4>About Me</h4>
 I'm a Front End Web Developer from Mendoza, Argentina
 
-- :telescope: I’m currently unemployed studying React in @CoderHouse.
+- :telescope: I’m currently studying React in @CoderHouse.
 
 - :alien: Spanish is my native language but I also speak English.
 
-- :seedling: Exploring web design.
+- :seedling: I'm looking forward to learn more about design.
 
 - :zap: In my free time, I enjoy board sports, board games and fantasy books.
 
