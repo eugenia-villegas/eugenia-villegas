@@ -12,7 +12,7 @@
 <h4>About Me</h4>
 I'm a Front End Web Developer from Mendoza, Argentina
 
-- :telescope: I’m currently learning about programmin logic.
+- :telescope: I’m currently learning about programming logic.
 
 - :alien: Spanish is my native language but I also speak English.
 
