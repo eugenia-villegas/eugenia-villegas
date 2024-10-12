@@ -12,11 +12,11 @@
 <h4>About Me</h4>
 I'm a Front End Web Developer from Mendoza, Argentina
 
-- :telescope: I’m currently learning about programming logic.
+- :telescope: I’m currently studying a degree in information systems.
 
 - :alien: Spanish is my native language but I also speak English.
 
-- :seedling: I'm looking forward to learn more about ux/ui design.
+- :seedling: I'm looking forward to find new challenges to become a better professional and human being.
 
 - :zap: In my free time, I enjoy board sports, board games and fantasy books.
 
